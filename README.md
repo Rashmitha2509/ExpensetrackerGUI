@@ -78,3 +78,7 @@ The objective of this project is to implement a real-world financial tracking sy
 ## Author
 
  G S Rashmitha
+ 
+ Aspiring software developer,
+ 
+ Reva university
